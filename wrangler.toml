@@ -1,0 +1,6 @@
+name = "sirasanews-api"       # Cloudflare Worker name
+main = "index.js"             # Entry point
+compatibility_date = "2025-11-27"
+type = "javascript"           # NodeJS / JS Worker
+
+# Optional: GitHub deploy (via GitHub Actions)
